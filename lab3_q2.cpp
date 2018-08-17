@@ -11,7 +11,7 @@ int e=a*b;
 cout << e<<endl;
 int f=a/b;
 cout << f<<endl;
-float g=a%b;
+int g=a%b;
 cout << g<<endl;
 return 0;
 }
